@@ -1,7 +1,6 @@
 # Programme-Python-Calculatrice
 
 Ce dossier contient tout mes programmes utiles sur calculatrice.
-Vous trouverez dans ce fichier la description de chaque programme.
 
 
 
